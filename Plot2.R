@@ -1,5 +1,5 @@
 ###This code was created as a part of Data Science Exploratory Data Analysys cours###
-##It creates line plot of global active power changes in period from 2007-02-01 to 2007-02-01
+##It creates line plot of global active power changes in period 2007-02-01 to 2007-02-01 and saves to png file
 
 library(lubridate)
 

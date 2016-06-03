@@ -1,5 +1,5 @@
 ###This code was created as a part of Data Science Exploratory Data Analysys cours###
-##It creates plot of 1 2 and 3 energy sub mettering in time period from 2007-02-01 to 2007-02-01##
+##It creates plot of 1 2 and 3 energy sub metering in time period 2007-02-01 to 2007-02-01 and saves it to png file
 
 #Checking if there is file in working direcotory.
 if (!file.exists("household_power_consumption.txt")) {

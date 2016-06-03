@@ -1,5 +1,5 @@
 ###This code was created as a part of Data Science Exploratory Data Analysys cours###
-##It creates histogram of Global Power Activity in period 2007-02-01 and 2007-02-02##
+##It creates histogram of Global Power Activity in period 2007-02-01 and 2007-02-02 and saves in png file##
 
 #Checking if there is file in working direcotory.
 if (!file.exists("household_power_consumption.txt")) {

@@ -1,5 +1,5 @@
 ###This code was created as a part of Data Science Exploratory Data Analysys cours###
-##It creates multiple plots 
+##It creates four plots and saves them in one png file
 ##1st - Global Active Power dynamics in time period from 2007-02-01 to 2007-02-01
 ##2nd - Energy sub metering dynamics in time period from 2007-02-01 to 2007-02-01
 ##3rd - Voltage dynamics in time period from 2007-02-01 to 2007-02-01 
